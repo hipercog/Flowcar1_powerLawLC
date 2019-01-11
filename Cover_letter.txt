@@ -1,0 +1,35 @@
+06.11.2018
+To editorial office of Nelson Cowan,
+
+Please find enclosed our submission for consideration as a publication in JoEP: General, titled:
+"Experience of Flow during high-speed steering reflects deviation from a power-law learning curve, but not overall level of skill"
+
+Overview:
+Flow, the well-known theory of the state of `optimal experience', is paradoxical in that it is "effortless" and yet experienced at the absolute limits of one's performance. It is important to understand how perceptual-cognitive and motor processes underlying performance give rise to phenomenological experiences, and how the phenomenal experiences relate to performance. This is important basic knowledge, and can also aid practitioners, e.g. in sports coaching, who on one hand have access to performance data, and on other hand subjective reports of their trainees regarding experienced effort.
+
+We report an experimental study which links performance in a visuomotor skill acquisition task to the self-reported experience of Flow. Nine participants performed a high-speed steering task, which has been designed to induce Flow by maintaining a balance between skills and task demands, and were recorded during 40 trials across eight sessions. We obtained both performance data and physiological signals.
+
+Specific results show that Flow varies with deviation from expected performance, modelled by a power-law curve fitted to performance data, but is not sensitive to how the overall level of skill changes across sessions. This indicates that the state of `optimal experience' in such a visuomotor task is governed more by expectation of performance than by absolute level of performance. Further, the degree of learning (slope of the learning curve when transformed to a linear model in log-log space), is predicted by the participants' spontaneous blink rate, which has been linked to tonic levels of D2 dopamine receptor density in the striatum (an area of the basal ganglia involved in learning and reward processing).
+
+Despite a small sample size, behavioural results are both strikingly similar and strong within each participant, suggesting that collecting a larger sample size would not likely have changed the pattern of the results or provided more in-depth insights.
+
+
+
+General interest:
+The above results draw on elements of performance science, but also learning and the neural correlates thereof. In addition to these, the contributions of this paper include the open source Python code of the steering task itself, which provides a novel experimental paradigm open to general use. Given this breadth of topics, it seems to us that it is of general interest, and thus a suitable fit to this journal.
+
+
+Appropriate reviewers:
+- Johannes Keller, Ulm University, Germany 
+- Stephen Fairclough, Liverpool John Moores University, UK 
+- Frederik Ullen, Karolinska Institute, Sweden
+
+Non-preferred reviewers:
+- Guillaume Chanel, University of Geneva, Switzerland (personal acquaintance)
+- Daphne Bavelier, University of Geneva, Switzerland (personal acquaintance)
+
+
+best regards
+
+Benjamin Ultan Cowley, PhD
+University of Helsinki, Finland
